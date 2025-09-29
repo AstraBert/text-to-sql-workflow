@@ -30,6 +30,6 @@
     "package_manager": "npm",
     "build_command": "build",
     "serve_command": "dev",
-    "proxy_port": 4502
+    "proxy_port": 4501
   }
 }
