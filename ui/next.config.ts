@@ -11,6 +11,7 @@ const nextConfig: NextConfig = {
   assetPrefix: basePath || undefined,
   // Enable static export for production
   output: "export",
+  distDir: "dist",
   // Expose base path to browser for runtime URL construction
   env: {
     NEXT_PUBLIC_LLAMA_DEPLOY_DEPLOYMENT_BASE_PATH: basePath,
