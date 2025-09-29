@@ -31,3 +31,4 @@ directory = "ui"
 [tool.llamadeploy]
 name = "text-to-sql-workflow"
 env_files = [".env", "ui/.env"]
+llama_cloud = true
