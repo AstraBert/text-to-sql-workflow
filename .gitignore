@@ -12,6 +12,3 @@ wheels/
 
 # env variables
 .env
-
-# DB
-workflows.db
